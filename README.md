@@ -1,6 +1,6 @@
 Here is the information converted into HTML code:
 
-```s
+```s.
 <!DOCTYPE html>
 <html>
 <head>
